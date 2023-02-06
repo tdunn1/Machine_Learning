@@ -8,7 +8,7 @@ Created on Sun Jan 22 16:37:05 2023
 import numpy as np
 
 class AdalineGD(object):
-    """ADAptive LInear NEuron classifier from Raschka's Python Machine Learning
+    """ADAptive LInear NEuron classifier
     
     Parameters
     ----------
